@@ -1,0 +1,38 @@
+[
+    {
+        "site_id": "123456",
+        "site_name": "Big Foot",
+        "address": "500 Long Grove St.",
+        "CSR_ip": "10.100.51.121"
+    },
+    {
+        "site_id": "123455",
+        "site_name": "Johnny Tree",
+        "address": "600 Long Grove St.",
+        "CSR_ip": "10.100.51.122"
+    },
+    {
+        "site_id": "123444",
+        "site_name": "Trekky",
+        "address": "700 Long Grove St.",
+        "CSR_ip": "10.100.51.123"
+    },
+    {
+        "site_id": "123333",
+        "site_name": "Little Foot",
+        "address": "850 Short Grove St.",
+        "CSR_ip": "10.100.51.124"
+    },
+    {
+        "site_id": "123222",
+        "site_name": "Hush",
+        "address": "60 Fart Grove St.",
+        "CSR_ip": "10.100.51.125"
+    },
+    {
+        "site_id": "123111",
+        "site_name": "San Andreas",
+        "address": "OG Grove St.",
+        "CSR_ip": "10.100.51.126"
+    }
+]
